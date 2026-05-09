@@ -1,4 +1,4 @@
-Financeiro Residencial em Python
+Controle Financeiro Residencial em Python
 Este é um projeto prático de controle de gastos domésticos focado em Programação Orientada a Objetos. O objetivo principal foi criar uma ferramenta funcional que utilize persistência de dados local (JSON) e gere relatórios profissionais em PDF.
 
 🛠 O que o sistema faz
